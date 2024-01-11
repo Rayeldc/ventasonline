@@ -1,0 +1,42 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: radial-gradient(circle at center,#1F618D, rgb(26, 53, 112));
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.box{
+    width: 90%;
+    height: auto;
+    padding: 10px 5px;
+    overflow: hidden;
+    display: grid;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.nav__items{
+    display: inline-block;
+    margin: 0 auto;
+    padding: 5px 10px;
+    overflow: hidden;
+    background: #AC072C;
+    border-radius: 1em;
+}
+
+.contenedor4{
+    display: grid;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    padding: 5px 5px;
+    overflow: hidden;
+
+}

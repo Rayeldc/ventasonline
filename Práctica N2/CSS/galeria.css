@@ -1,0 +1,62 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: #AED6F1;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.box{
+    width: 90%;
+    height: auto;
+    padding: 10px 5px;
+    overflow: hidden;
+    display: grid;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.nav__items{
+    display: inline-block;
+    margin: 0 auto;
+    padding: 5px 10px;
+    overflow: hidden;
+    background: #AC072C;
+    border-radius: 1em;
+}
+
+.contenedor3{
+    background: linear-gradient(indianred, salmon);
+   display: inline-block;
+   border-radius: 1em;
+   padding: 10px 10px;
+   border: 5px outset indianred;
+}
+
+.tabla{
+    background: #3d6696b6;
+   
+}
+p{
+    color: white;
+}
+
+hr{
+    border: 2px solid rgb(33, 50, 77);
+}
+/* propiedades del footer */
+.contenedor4{
+    display: grid;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px 5px;
+    overflow: hidden;
+
+}
